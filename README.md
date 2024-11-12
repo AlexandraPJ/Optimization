@@ -17,3 +17,5 @@ Criteria:  cost of living, language barriers, and job opportunities
 |INFRAESTRUCTURA        |Infrastructure available to municipal security:perational booths, modules,surveillance posts, as well as control center for video surveillance.|                             
 |JUN_VECINAL            |Citizen security neighborhood boards.                                                                                                          |
 |INT_ROBO               |Number of reports for property crimes                                                                                                          |
+
+Link: https://alexandrapj.github.io/Optimization/Tarea%20Optimizacion.html
