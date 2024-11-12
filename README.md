@@ -3,4 +3,5 @@ The following analysis consists of three main parts. The first part addresses a 
 
 ## Multi-criteria analysis for selecting a Master's program
 Countries: UK, Germany, Spain, and Chile
+
 Criteria:  cost of living, language barriers, and job opportunities
